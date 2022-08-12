@@ -1,5 +1,4 @@
  CMD Maze aka Labirynt.
-     Made by Emki.
 	 2018
 
 
